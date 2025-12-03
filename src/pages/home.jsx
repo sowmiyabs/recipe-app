@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-import RecipeCard from "../components/RecipeCard.jsx";
-import SearchBar from "../components/SearchBar.jsx";
+import RecipeCard from "../components/Recipe card.jsx";
+import SearchBar from "../components/Search bar.jsx";
 import Filters from "../components/Filters.jsx";
 
 export default function Home() {
